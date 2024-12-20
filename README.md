@@ -1,3 +1,7 @@
+Certainly! Here's the revised version of your README with a new section for the screenshots:
+
+---
+
 # Busify – 🚍 Live Location Tracking App
 
 ---
@@ -91,3 +95,17 @@ We would like to express our heartfelt thanks to:
 ---
 
 We are committed to making transportation safer and more efficient for everyone. Stay tuned for updates and improvements as we transition from testing to deployment. Thank you for your support! 😊
+
+---
+
+## 📸 Screenshots
+
+We have attached screenshots of the app templates created using **FlutterFlow**, which showcase the design and functionality of the Busify app. These templates represent the app's key features, including real-time tracking, login/sign-up pages, and the live map interface. Below are the visual elements we've worked on:
+
+- **Login and Sign-Up Interface:** An intuitive and secure login screen.
+- **Live Map Interface:** A real-time bus tracking view with an interactive map.
+- **Alert and Emergency Features:** A quick-access system for emergencies.
+
+These screenshots provide a clear visualization of our app's interface and features, highlighting the user-friendly design and seamless navigation.
+
+---
