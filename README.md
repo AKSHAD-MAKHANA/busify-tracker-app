@@ -78,14 +78,6 @@ This project is a collaborative effort by a team of six passionate learners:
 
 ---
 
-## 📢 Contact
-
-For queries, feedback, or collaborations, please contact us at:
-- **📧 Email:** [Your Email Address]
-- **🔗 GitHub Repository:** [GitHub Link]
-
----
-
 ## 🙏 Acknowledgments
 
 We would like to express our heartfelt thanks to:
@@ -99,4 +91,3 @@ We would like to express our heartfelt thanks to:
 ---
 
 We are committed to making transportation safer and more efficient for everyone. Stay tuned for updates and improvements as we transition from testing to deployment. Thank you for your support! 😊
-
