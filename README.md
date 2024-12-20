@@ -50,12 +50,12 @@ The primary users of Busify are students of Sanjivani University, especially gir
 ## 👥 Team
 
 This project is a collaborative effort by a team of six passionate learners:
-1. **Shreya** - Leader
-2. **Pranjal**
-3. **Akash**
-4. **Piyush**
-5. **Rohan**
-6. **Akshad**
+1. **Shreya Patil** - Leader
+2. **Pranjal Dhamane**
+3. **Akash Mandal**
+4. **Piyush Khadghe**
+5. **Rohan Kotkar**
+6. **Akshad Makhana**
 
 ---
 
