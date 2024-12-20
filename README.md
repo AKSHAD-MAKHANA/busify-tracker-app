@@ -1,5 +1,3 @@
-Certainly! Here's the revised version of your README with a new section for the screenshots:
-
 ---
 
 # Busify – 🚍 Live Location Tracking App
